@@ -1,0 +1,7 @@
+# Ignore database files
+*.db
+*.sql
+# Ignore node_modules (if it's a Node.js project)
+node_modules/
+# Ignore environment variable files
+.env
